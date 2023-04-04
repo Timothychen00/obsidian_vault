@@ -1,0 +1,194 @@
+{
+  "main": {
+    "id": "72dcb74671f5f90f",
+    "type": "split",
+    "children": [
+      {
+        "id": "c6cb8cb385ca4c64",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "02cdb5c75ae0148b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2023-04-04.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4313389696b8f915",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "道氏理論(Dow Theory).md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ],
+        "stacked": true
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9a3cc439f1f82637",
+    "type": "split",
+    "children": [
+      {
+        "id": "52692e1532866f5b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4a6a5301bd340147",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b16f7b8f50238da2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6ff83239c7dcd844",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f2f61f88dd64cbde",
+    "type": "split",
+    "children": [
+      {
+        "id": "07f3ab40b9918dae",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f0e06f41601f352d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2023-04-04.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f4168b303cc651a3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2023-04-04.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0463ef4d2887f5db",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "7877af4dba90795c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2023-04-04.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:開啟快速切換": false,
+      "graph:查看關聯圖": false,
+      "canvas:建立新畫布": false,
+      "daily-notes:開啟今天的每日筆記": false,
+      "templates:插入模板": false,
+      "command-palette:開啟命令面板": false,
+      "random-note:開始漫遊筆記": false
+    }
+  },
+  "active": "4a6a5301bd340147",
+  "lastOpenFiles": [
+    "金融市場技術分析-第一章.md",
+    "道氏理論(Dow Theory).md",
+    "金融市場技術分析-第二章.md",
+    "歸納統計學(inductive statistics).md",
+    "內涵價值(intrinsic value).md",
+    "技術分析.md",
+    "期貨.md",
+    "部位(Position).md",
+    "選擇權.md",
+    "未命名 1.canvas",
+    "2023-04-04.md",
+    "12345678909876545678.md",
+    "財務槓桿.md",
+    "static/Pasted image 20230403235411.png",
+    "static",
+    "static/Pasted image 20230404114518.png",
+    "static/Pasted image 20230404114501.png",
+    "static/Pasted image 20230404114443.png",
+    "敘述統計學(descriptive statistics).md",
+    "隨機漫步理論(Random Walk Theory).md",
+    "效率市場價說(efficient market hypothesis).md",
+    "自證預言(Self-fulfilling prophecy).md",
+    "未命名.canvas",
+    "2022-12-14.md",
+    "==財務槓桿==.md",
+    "投資.md"
+  ]
+}
