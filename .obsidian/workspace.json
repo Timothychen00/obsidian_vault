@@ -13,21 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023-04-04.md",
+                "file": "金融市場技術分析-第一章.md",
                 "mode": "preview",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4313389696b8f915",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "道氏理論(Dow Theory).md",
-                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -100,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-04-04.md",
+                "file": "金融市場技術分析-第一章.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-04-04.md",
+                "file": "金融市場技術分析-第一章.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-04-04.md"
+                "file": "金融市場技術分析-第一章.md"
               }
             }
           }
@@ -162,8 +149,12 @@
       "random-note:開始漫遊筆記": false
     }
   },
-  "active": "4a6a5301bd340147",
+  "active": "02cdb5c75ae0148b",
   "lastOpenFiles": [
+    "未命名.canvas",
+    "未命名 1.canvas",
+    "未命名 2.canvas",
+    "2023-04-04.md",
     "金融市場技術分析-第一章.md",
     "道氏理論(Dow Theory).md",
     "金融市場技術分析-第二章.md",
@@ -173,8 +164,6 @@
     "期貨.md",
     "部位(Position).md",
     "選擇權.md",
-    "未命名 1.canvas",
-    "2023-04-04.md",
     "12345678909876545678.md",
     "財務槓桿.md",
     "static/Pasted image 20230403235411.png",
@@ -186,7 +175,6 @@
     "隨機漫步理論(Random Walk Theory).md",
     "效率市場價說(efficient market hypothesis).md",
     "自證預言(Self-fulfilling prophecy).md",
-    "未命名.canvas",
     "2022-12-14.md",
     "==財務槓桿==.md",
     "投資.md"
