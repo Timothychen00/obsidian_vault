@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "金融市場技術分析-第一章.md",
-                "mode": "preview",
+                "file": "金融市場技術分析-第二章.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "金融市場技術分析-第一章.md",
+                "file": "金融市場技術分析-第二章.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "金融市場技術分析-第一章.md",
+                "file": "金融市場技術分析-第二章.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "金融市場技術分析-第一章.md"
+                "file": "金融市場技術分析-第二章.md"
               }
             }
           }
@@ -151,11 +151,11 @@
   },
   "active": "02cdb5c75ae0148b",
   "lastOpenFiles": [
+    "金融市場技術分析-第一章.md",
     "未命名.canvas",
     "未命名 1.canvas",
     "未命名 2.canvas",
     "2023-04-04.md",
-    "金融市場技術分析-第一章.md",
     "道氏理論(Dow Theory).md",
     "金融市場技術分析-第二章.md",
     "歸納統計學(inductive statistics).md",
