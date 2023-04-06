@@ -11,8 +11,13 @@
             "id": "02cdb5c75ae0148b",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "狹幅盤整(lines) 整理(consolidation).md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ],
@@ -45,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#金融市場技術分析",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -82,6 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "狹幅盤整(lines) 整理(consolidation).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "狹幅盤整(lines) 整理(consolidation).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +126,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "狹幅盤整(lines) 整理(consolidation).md"
+              }
             }
           }
         ]
@@ -143,34 +152,38 @@
   "active": "02cdb5c75ae0148b",
   "lastOpenFiles": [
     "金融市場技術分析-第二章.md",
-    "未失敗擺動.md",
+    "歸納統計學(inductive statistics).md",
+    "金融市場技術分析-第一章.md",
+    "敘述統計學(descriptive statistics).md",
+    "隨機漫步理論(Random Walk Theory).md",
+    "自證預言(Self-fulfilling prophecy).md",
+    "基本分析.md",
+    "技術分析.md",
+    "類股投資(sector investing).md",
+    "內涵價值(intrinsic value).md",
+    "部位(Position).md",
+    "選擇權.md",
+    "財務槓桿.md",
+    "期貨.md",
+    "狹幅盤整(lines) 整理(consolidation).md",
+    "未失敗擺動(NonFailure Swing).md",
+    "失敗擺動(Failure Swing).md",
+    "未命名 3.canvas",
     "Pasted image 20230405195529.png",
-    "失敗擺動.md",
     "Pasted image 20230405195314.png",
     "道氏理論.md",
-    "金融市場技術分析-第一章.md",
     "未命名.canvas",
     "未命名 1.canvas",
     "未命名 2.canvas",
     "2023-04-04.md",
     "道氏理論(Dow Theory).md",
-    "歸納統計學(inductive statistics).md",
-    "內涵價值(intrinsic value).md",
-    "技術分析.md",
-    "期貨.md",
-    "部位(Position).md",
-    "選擇權.md",
     "12345678909876545678.md",
-    "財務槓桿.md",
     "static/Pasted image 20230403235411.png",
     "static",
     "static/Pasted image 20230404114518.png",
     "static/Pasted image 20230404114501.png",
     "static/Pasted image 20230404114443.png",
-    "敘述統計學(descriptive statistics).md",
-    "隨機漫步理論(Random Walk Theory).md",
     "效率市場價說(efficient market hypothesis).md",
-    "自證預言(Self-fulfilling prophecy).md",
     "2022-12-14.md",
     "==財務槓桿==.md",
     "投資.md"
