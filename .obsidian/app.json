@@ -1,5 +1,6 @@
 {
   "livePreview": true,
   "defaultViewMode": "preview",
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "promptDelete": false
 }
