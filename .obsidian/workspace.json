@@ -13,20 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RSI+NMACD.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6d05f53c307c3183",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "20230420.md",
+                "file": "RSI.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -34,7 +21,6 @@
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -101,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "20230420.md",
+                "file": "RSI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "20230420.md",
+                "file": "RSI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20230420.md"
+                "file": "RSI.md"
               }
             }
           },
@@ -169,15 +155,18 @@
       "daily-notes:開啟今天的每日筆記": false,
       "templates:插入模板": false,
       "command-palette:開啟命令面板": false,
-      "random-note:開始漫遊筆記": false
+      "random-note:開始漫遊筆記": false,
+      "obsidian-to-notion:Share to notion": false
     }
   },
-  "active": "98420c7f2d886d22",
+  "active": "db79abbe6b2576a9",
   "lastOpenFiles": [
+    "指標.md",
+    "RSI.md",
+    "未命名.md",
     "RSI+NMACD.md",
     "20230420.md",
     "Strategy.md",
-    "指標.md",
     "Screenshot 2023-04-20 at 9.37.47 AM.png",
     "Screenshot 2023-04-20 at 9.37.34 AM.png",
     "選擇權.md",
@@ -207,8 +196,6 @@
     "未命名 3.canvas",
     "未命名 1.canvas",
     "未命名.canvas",
-    "狹幅盤整(lines) 整理(consolidation).md",
-    "歸納統計學(inductive statistics).md",
     "static/Pasted image 20230403235411.png",
     "static",
     "static/Pasted image 20230404114518.png",
