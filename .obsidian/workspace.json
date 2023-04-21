@@ -11,13 +11,8 @@
             "id": "db79abbe6b2576a9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "RSI.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -87,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RSI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RSI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "RSI.md"
-              }
+              "state": {}
             }
           },
           {
@@ -161,17 +152,22 @@
   },
   "active": "db79abbe6b2576a9",
   "lastOpenFiles": [
-    "指標.md",
+    "cci.md",
     "RSI.md",
-    "未命名.md",
+    "EMA.md",
+    "NMACD.md",
     "RSI+NMACD.md",
+    "指標.md",
+    "Volatility Oscillator.md",
     "20230420.md",
+    "static/Pasted image 20230408212443.png",
+    "static/Screenshot 2023-04-20 at 9.37.34 AM.png",
+    "static/Screenshot 2023-04-21 at 12.49.36 PM.png",
+    "未命名.md",
     "Strategy.md",
-    "Screenshot 2023-04-20 at 9.37.47 AM.png",
-    "Screenshot 2023-04-20 at 9.37.34 AM.png",
+    "static/Screenshot 2023-04-20 at 9.37.47 AM.png",
     "選擇權.md",
     "雙重頂(double top).md",
-    "Pasted image 20230408212443.png",
     "金融市場技術分析-第四章.md",
     "上升趨勢.md",
     "支撐(support).md",
@@ -186,10 +182,6 @@
     "對數(logarithmic).md",
     "算術刻度(arithmetic).md",
     "金融市場技術分析-第二章.md",
-    "效率市場價說(efficient market hypothesis).md",
-    "敘述統計學(descriptive statistics).md",
-    "期貨.md",
-    "未失敗擺動(NonFailure Swing).md",
     "static/Pasted image 20230405195529.png",
     "static/Pasted image 20230405195314.png",
     "未命名 2.canvas",
