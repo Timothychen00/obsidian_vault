@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c6cb8cb385ca4c64",
+        "id": "99a29d820eab5a94",
         "type": "tabs",
         "children": [
           {
-            "id": "db79abbe6b2576a9",
+            "id": "d8d3dde259bad283",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CE.md",
+                "file": "20230427.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CE.md",
+                "file": "20230427.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CE.md",
+                "file": "20230427.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CE.md"
+                "file": "20230427.md"
               }
             }
           },
@@ -159,11 +159,16 @@
       "obsidian-to-notion:Share to notion": false
     }
   },
-  "active": "db79abbe6b2576a9",
+  "active": "d8d3dde259bad283",
   "lastOpenFiles": [
-    "Screenshot 2023-04-27 at 9.02.33 AM.png",
-    "指標.md",
+    "20230427.md",
+    "聽.md",
+    "20230420.md",
+    "RSI+NMACD.md",
+    "2023-04-04.md",
     "CE.md",
+    "指標.md",
+    "Screenshot 2023-04-27 at 9.02.33 AM.png",
     "Volatility Oscillator.md",
     "static/Screenshot 2023-04-27 at 8.51.52 AM.png",
     "cci.md",
@@ -173,8 +178,6 @@
     "RSI.md",
     "EMA.md",
     "NMACD.md",
-    "RSI+NMACD.md",
-    "20230420.md",
     "static/Pasted image 20230408212443.png",
     "static/Screenshot 2023-04-20 at 9.37.34 AM.png",
     "static/Screenshot 2023-04-21 at 12.49.36 PM.png",
@@ -191,8 +194,6 @@
     "金融市場技術分析-第一章.md",
     "財務槓桿.md",
     "平倉.md",
-    "未平倉量.md",
-    "類股投資(sector investing).md",
     "static/Pasted image 20230405195529.png",
     "static/Pasted image 20230405195314.png",
     "未命名 2.canvas",
@@ -200,7 +201,6 @@
     "未命名 1.canvas",
     "static/Pasted image 20230403235411.png",
     "static",
-    "static/Pasted image 20230404114518.png",
-    "static/Pasted image 20230404114501.png"
+    "static/Pasted image 20230404114518.png"
   ]
 }
