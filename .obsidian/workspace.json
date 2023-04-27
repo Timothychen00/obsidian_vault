@@ -11,8 +11,13 @@
             "id": "db79abbe6b2576a9",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "投資.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ],
@@ -82,6 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "投資.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "投資.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +126,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "投資.md"
+              }
             }
           },
           {
@@ -152,6 +161,7 @@
   },
   "active": "db79abbe6b2576a9",
   "lastOpenFiles": [
+    "未命名.canvas",
     "cci.md",
     "RSI.md",
     "EMA.md",
@@ -181,13 +191,11 @@
     "成交量.md",
     "對數(logarithmic).md",
     "算術刻度(arithmetic).md",
-    "金融市場技術分析-第二章.md",
     "static/Pasted image 20230405195529.png",
     "static/Pasted image 20230405195314.png",
     "未命名 2.canvas",
     "未命名 3.canvas",
     "未命名 1.canvas",
-    "未命名.canvas",
     "static/Pasted image 20230403235411.png",
     "static",
     "static/Pasted image 20230404114518.png",
