@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "投資.md",
-                "mode": "preview",
+                "file": "cci.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "投資.md",
+                "file": "cci.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "投資.md",
+                "file": "cci.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "投資.md"
+                "file": "cci.md"
               }
             }
           },
@@ -161,13 +161,14 @@
   },
   "active": "db79abbe6b2576a9",
   "lastOpenFiles": [
+    "指標.md",
+    "投資.md",
     "未命名.canvas",
     "cci.md",
     "RSI.md",
     "EMA.md",
     "NMACD.md",
     "RSI+NMACD.md",
-    "指標.md",
     "Volatility Oscillator.md",
     "20230420.md",
     "static/Pasted image 20230408212443.png",
