@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Volatility Oscillator.md",
-                "mode": "preview",
+                "file": "CE.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Volatility Oscillator.md",
+                "file": "CE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Volatility Oscillator.md",
+                "file": "CE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Volatility Oscillator.md"
+                "file": "CE.md"
               }
             }
           },
@@ -161,17 +161,19 @@
   },
   "active": "db79abbe6b2576a9",
   "lastOpenFiles": [
+    "Screenshot 2023-04-27 at 9.02.33 AM.png",
+    "指標.md",
+    "CE.md",
+    "Volatility Oscillator.md",
     "static/Screenshot 2023-04-27 at 8.51.52 AM.png",
     "cci.md",
     "典型價格.md",
-    "指標.md",
     "投資.md",
     "未命名.canvas",
     "RSI.md",
     "EMA.md",
     "NMACD.md",
     "RSI+NMACD.md",
-    "Volatility Oscillator.md",
     "20230420.md",
     "static/Pasted image 20230408212443.png",
     "static/Screenshot 2023-04-20 at 9.37.34 AM.png",
@@ -191,7 +193,6 @@
     "平倉.md",
     "未平倉量.md",
     "類股投資(sector investing).md",
-    "成交量.md",
     "static/Pasted image 20230405195529.png",
     "static/Pasted image 20230405195314.png",
     "未命名 2.canvas",
