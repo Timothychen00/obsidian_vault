@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20230427.md",
-                "mode": "source",
+                "file": "成交量.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "20230427.md",
+                "file": "成交量.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "20230427.md",
+                "file": "成交量.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20230427.md"
+                "file": "成交量.md"
               }
             }
           },
@@ -161,14 +161,23 @@
   },
   "active": "d8d3dde259bad283",
   "lastOpenFiles": [
-    "20230427.md",
+    "頭肩.md",
+    "Pasted image 20230430154743.png",
+    "Pasted image 20230430154622.png",
+    "雙重頂(double top).md",
     "聽.md",
+    "未命名.md",
+    "金融市場技術分析-第四章.md",
+    "支撐(support).md",
+    "趨勢線（trendline）.md",
+    "壓力(resistance).md",
+    "20230427.md",
     "20230420.md",
     "RSI+NMACD.md",
     "2023-04-04.md",
     "CE.md",
     "指標.md",
-    "Screenshot 2023-04-27 at 9.02.33 AM.png",
+    "static/Screenshot 2023-04-27 at 9.02.33 AM.png",
     "Volatility Oscillator.md",
     "static/Screenshot 2023-04-27 at 8.51.52 AM.png",
     "cci.md",
@@ -181,26 +190,16 @@
     "static/Pasted image 20230408212443.png",
     "static/Screenshot 2023-04-20 at 9.37.34 AM.png",
     "static/Screenshot 2023-04-21 at 12.49.36 PM.png",
-    "未命名.md",
     "Strategy.md",
     "static/Screenshot 2023-04-20 at 9.37.47 AM.png",
     "選擇權.md",
-    "雙重頂(double top).md",
-    "金融市場技術分析-第四章.md",
     "上升趨勢.md",
-    "支撐(support).md",
-    "壓力(resistance).md",
     "金融市場技術分析-第三章.md",
-    "金融市場技術分析-第一章.md",
-    "財務槓桿.md",
-    "平倉.md",
     "static/Pasted image 20230405195529.png",
     "static/Pasted image 20230405195314.png",
     "未命名 2.canvas",
     "未命名 3.canvas",
     "未命名 1.canvas",
-    "static/Pasted image 20230403235411.png",
-    "static",
-    "static/Pasted image 20230404114518.png"
+    "static"
   ]
 }
