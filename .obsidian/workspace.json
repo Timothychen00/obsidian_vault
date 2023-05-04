@@ -11,8 +11,13 @@
             "id": "d8d3dde259bad283",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "20230504-TOOLS.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ],
@@ -82,6 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "20230504-TOOLS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "20230504-TOOLS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +126,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "20230504-TOOLS.md"
+              }
             }
           },
           {
@@ -152,12 +161,13 @@
   },
   "active": "d8d3dde259bad283",
   "lastOpenFiles": [
+    "聽.md",
+    "20230504-TOOLS.md",
     "成交量.md",
     "頭肩.md",
     "Pasted image 20230430154743.png",
     "Pasted image 20230430154622.png",
     "雙重頂(double top).md",
-    "聽.md",
     "未命名.md",
     "金融市場技術分析-第四章.md",
     "支撐(support).md",
@@ -186,7 +196,6 @@
     "static/Screenshot 2023-04-20 at 9.37.47 AM.png",
     "選擇權.md",
     "上升趨勢.md",
-    "金融市場技術分析-第三章.md",
     "static/Pasted image 20230405195529.png",
     "static/Pasted image 20230405195314.png",
     "未命名 2.canvas",
