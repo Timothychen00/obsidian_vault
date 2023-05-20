@@ -19,8 +19,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "96ab2b3b40749f99",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.2.8"
+              }
+            }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -64,6 +75,14 @@
             "type": "leaf",
             "state": {
               "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "cbc49eae15594518",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
               "state": {}
             }
           }
@@ -159,10 +178,11 @@
       "obsidian-to-notion:Share to notion": false
     }
   },
-  "active": "d8d3dde259bad283",
+  "active": "96ab2b3b40749f99",
   "lastOpenFiles": [
-    "cci.md",
+    "Trend Indicator A-V2.md",
     "20230504-TOOLS.md",
+    "cci.md",
     "EMA.md",
     "聽.md",
     "成交量.md",
@@ -195,7 +215,6 @@
     "Strategy.md",
     "static/Screenshot 2023-04-20 at 9.37.47 AM.png",
     "選擇權.md",
-    "上升趨勢.md",
     "static/Pasted image 20230405195529.png",
     "static/Pasted image 20230405195314.png",
     "未命名 2.canvas",
