@@ -13,14 +13,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "未平倉量.md",
+                "file": "20230504-TOOLS.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
             }
+          },
+          {
+            "id": "36025ad3f07b1327",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.3.4"
+              }
+            }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -96,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "未平倉量.md",
+                "file": "20230504-TOOLS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "未平倉量.md",
+                "file": "20230504-TOOLS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "未平倉量.md"
+                "file": "20230504-TOOLS.md"
               }
             }
           },
@@ -168,8 +179,9 @@
       "obsidian-to-notion:Share to notion": false
     }
   },
-  "active": "d8d3dde259bad283",
+  "active": "36025ad3f07b1327",
   "lastOpenFiles": [
+    "未平倉量.md",
     "金融市場技術分析-第四章.md",
     "金融市場技術分析-第三章.md",
     "成交量.md",
@@ -199,7 +211,6 @@
     "Volatility Oscillator.md",
     "static/Screenshot 2023-04-27 at 8.51.52 AM.png",
     "典型價格.md",
-    "投資.md",
     "未命名.canvas",
     "static/Pasted image 20230408212443.png",
     "static/Screenshot 2023-04-20 at 9.37.34 AM.png",
