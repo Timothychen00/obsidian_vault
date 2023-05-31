@@ -11,13 +11,8 @@
             "id": "d8d3dde259bad283",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "金融市場技術分析-第四章.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -96,7 +91,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "金融市場技術分析-第四章.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +107,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "金融市場技術分析-第四章.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,9 +128,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "金融市場技術分析-第四章.md"
-              }
+              "state": {}
             }
           },
           {
@@ -170,9 +161,11 @@
   },
   "active": "d8d3dde259bad283",
   "lastOpenFiles": [
+    "20230531.md",
+    "聽.md",
+    "金融市場技術分析-第四章.md",
     "20230504-TOOLS.md",
     "未平倉量.md",
-    "金融市場技術分析-第四章.md",
     "金融市場技術分析-第三章.md",
     "成交量.md",
     "未失敗擺動(NonFailure Swing).md",
@@ -181,7 +174,6 @@
     "Trend Indicator A-V2.md",
     "cci.md",
     "EMA.md",
-    "聽.md",
     "頭肩.md",
     "static/Pasted image 20230430154743.png",
     "static/Pasted image 20230430154622.png",
@@ -199,7 +191,6 @@
     "static/Screenshot 2023-04-27 at 9.02.33 AM.png",
     "Volatility Oscillator.md",
     "static/Screenshot 2023-04-27 at 8.51.52 AM.png",
-    "典型價格.md",
     "未命名.canvas",
     "static/Pasted image 20230408212443.png",
     "static/Screenshot 2023-04-20 at 9.37.34 AM.png",
