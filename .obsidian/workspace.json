@@ -16,8 +16,19 @@
                 "file": "Screenshot 2023-10-15 at 9.18.01 AM.png"
               }
             }
+          },
+          {
+            "id": "2a5b00bff70ebe94",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.16"
+              }
+            }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -164,7 +175,7 @@
       "obsidian-to-notion:Share to notion": false
     }
   },
-  "active": "4ccab2f57ade756c",
+  "active": "2a5b00bff70ebe94",
   "lastOpenFiles": [
     "pwn.md",
     "資安/資安.md",
