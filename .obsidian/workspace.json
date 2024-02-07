@@ -4,31 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "c9c0e584a2cddedb",
+        "id": "3aced6cab5ceb7bd",
         "type": "tabs",
         "children": [
           {
-            "id": "4ccab2f57ade756c",
+            "id": "cb1daba8f1623bbe",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "Screenshot 2023-10-15 at 9.18.01 AM.png"
-              }
-            }
-          },
-          {
-            "id": "2a5b00bff70ebe94",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.16"
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -103,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Screenshot 2023-10-15 at 9.18.01 AM.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +106,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Screenshot 2023-10-15 at 9.18.01 AM.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,9 +127,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Screenshot 2023-10-15 at 9.18.01 AM.png"
-              }
+              "state": {}
             }
           },
           {
@@ -175,11 +158,11 @@
       "obsidian-to-notion:Share to notion": false
     }
   },
-  "active": "2a5b00bff70ebe94",
+  "active": "cb1daba8f1623bbe",
   "lastOpenFiles": [
+    "Screenshot 2023-10-15 at 9.18.01 AM.png",
     "pwn.md",
     "資安/資安.md",
-    "Screenshot 2023-10-15 at 9.18.01 AM.png",
     "經濟/cci.md",
     "未命名",
     "經濟/2023-04-04.md",
