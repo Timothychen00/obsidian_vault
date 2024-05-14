@@ -8,25 +8,14 @@
         "type": "tabs",
         "children": [
           {
-            "id": "cb1daba8f1623bbe",
+            "id": "92347be094a1d853",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {}
             }
-          },
-          {
-            "id": "be73d93af0feb34b",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.3"
-              }
-            }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -169,8 +158,11 @@
       "obsidian-to-notion:Share to notion": false
     }
   },
-  "active": "be73d93af0feb34b",
+  "active": "92347be094a1d853",
   "lastOpenFiles": [
+    "webpack.md",
+    "NPM.md",
+    "node_modules.md",
     "Screenshot 2023-10-15 at 9.18.01 AM.png",
     "pwn.md",
     "資安/資安.md",
@@ -201,8 +193,6 @@
     "經濟/支撐(support).md",
     "經濟/趨勢線（trendline）.md",
     "經濟/壓力(resistance).md",
-    "經濟/20230427.md",
-    "經濟/20230420.md",
     "static/Screenshot 2023-04-27 at 9.02.33 AM.png",
     "static/Screenshot 2023-04-27 at 8.51.52 AM.png",
     "static/Pasted image 20230408212443.png",
