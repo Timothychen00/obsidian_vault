@@ -4,34 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "3aced6cab5ceb7bd",
+        "id": "241c8bf8404206a9",
         "type": "tabs",
         "children": [
           {
-            "id": "92347be094a1d853",
+            "id": "8175d94a90823b76",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "webpack.md",
+                "file": "資安/資安.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
             }
-          },
-          {
-            "id": "2eb5e342de1a732c",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.12"
-              }
-            }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -106,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "webpack.md",
+                "file": "資安/資安.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "webpack.md",
+                "file": "資安/資安.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "webpack.md"
+                "file": "資安/資安.md"
               }
             }
           },
@@ -174,14 +163,16 @@
       "daily-notes:開啟今天的每日筆記": false,
       "templates:插入模板": false,
       "command-palette:開啟命令面板": false,
-      "random-note:開始漫遊筆記": false,
-      "obsidian-to-notion:Share to notion": false
+      "random-note:開始漫遊筆記": false
     }
   },
-  "active": "2eb5e342de1a732c",
+  "active": "8175d94a90823b76",
   "lastOpenFiles": [
-    "NPM.md",
+    "未命名.canvas",
+    "2024-07-01.md",
     "webpack.md",
+    "經濟/算術刻度(arithmetic).md",
+    "NPM.md",
     "node_modules.md",
     "Screenshot 2023-10-15 at 9.18.01 AM.png",
     "pwn.md",
@@ -210,9 +201,6 @@
     "static/Pasted image 20230430154743.png",
     "static/Pasted image 20230430154622.png",
     "經濟/雙重頂(double top).md",
-    "經濟/支撐(support).md",
-    "經濟/趨勢線（trendline）.md",
-    "經濟/壓力(resistance).md",
     "static/Screenshot 2023-04-27 at 9.02.33 AM.png",
     "static/Screenshot 2023-04-27 at 8.51.52 AM.png",
     "static/Pasted image 20230408212443.png",
