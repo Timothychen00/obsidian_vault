@@ -11,11 +11,27 @@
             "id": "92347be094a1d853",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "webpack.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2eb5e342de1a732c",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.12"
+              }
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -90,6 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "webpack.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "webpack.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +145,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "webpack.md"
+              }
             }
           },
           {
@@ -158,10 +178,10 @@
       "obsidian-to-notion:Share to notion": false
     }
   },
-  "active": "92347be094a1d853",
+  "active": "2eb5e342de1a732c",
   "lastOpenFiles": [
-    "webpack.md",
     "NPM.md",
+    "webpack.md",
     "node_modules.md",
     "Screenshot 2023-10-15 at 9.18.01 AM.png",
     "pwn.md",
